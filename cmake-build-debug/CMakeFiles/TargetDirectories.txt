@@ -1,0 +1,3 @@
+D:/FIE/Paradigmas 3/2doparcialPractica/pruebaFisura/cmake-build-debug/CMakeFiles/pruebaFisura.dir
+D:/FIE/Paradigmas 3/2doparcialPractica/pruebaFisura/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/FIE/Paradigmas 3/2doparcialPractica/pruebaFisura/cmake-build-debug/CMakeFiles/rebuild_cache.dir
